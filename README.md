@@ -29,7 +29,7 @@
 
 # 在本项目中你能学到什么？
 基础知识
-- Elment-UI的简单使用
+- Element-UI的简单使用
 - Vue Router嵌套路由的使用
 - 如何使用Axios
 - Vuex的基本使用
